@@ -7,3 +7,5 @@ import os
 
 currentuser = str(os.getlogin())
 histfile = f"/home/{currentuser}/.bash_history"
+
+# ILL FINISH THIS SOMETIME IN THE FUTURE MAYBE... LOL
